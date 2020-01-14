@@ -1,2 +1,2 @@
 # Java-dino-game
-^^^^
+It is a java dino game...
